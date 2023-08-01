@@ -1,0 +1,17 @@
+C:\Personal\Programare\C#\SpiderServer\bin\Debug\net7.0-windows\SpiderServer.exe
+C:\Personal\Programare\C#\SpiderServer\bin\Debug\net7.0-windows\SpiderServer.deps.json
+C:\Personal\Programare\C#\SpiderServer\bin\Debug\net7.0-windows\SpiderServer.runtimeconfig.json
+C:\Personal\Programare\C#\SpiderServer\bin\Debug\net7.0-windows\SpiderServer.dll
+C:\Personal\Programare\C#\SpiderServer\bin\Debug\net7.0-windows\SpiderServer.pdb
+C:\Personal\Programare\C#\SpiderServer\obj\Debug\net7.0-windows\SpiderServer.csproj.AssemblyReference.cache
+C:\Personal\Programare\C#\SpiderServer\obj\Debug\net7.0-windows\SpiderServer.MainForm.resources
+C:\Personal\Programare\C#\SpiderServer\obj\Debug\net7.0-windows\SpiderServer.csproj.GenerateResource.cache
+C:\Personal\Programare\C#\SpiderServer\obj\Debug\net7.0-windows\SpiderServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Programare\C#\SpiderServer\obj\Debug\net7.0-windows\SpiderServer.AssemblyInfoInputs.cache
+C:\Personal\Programare\C#\SpiderServer\obj\Debug\net7.0-windows\SpiderServer.AssemblyInfo.cs
+C:\Personal\Programare\C#\SpiderServer\obj\Debug\net7.0-windows\SpiderServer.csproj.CoreCompileInputs.cache
+C:\Personal\Programare\C#\SpiderServer\obj\Debug\net7.0-windows\SpiderServer.dll
+C:\Personal\Programare\C#\SpiderServer\obj\Debug\net7.0-windows\refint\SpiderServer.dll
+C:\Personal\Programare\C#\SpiderServer\obj\Debug\net7.0-windows\SpiderServer.pdb
+C:\Personal\Programare\C#\SpiderServer\obj\Debug\net7.0-windows\SpiderServer.genruntimeconfig.cache
+C:\Personal\Programare\C#\SpiderServer\obj\Debug\net7.0-windows\ref\SpiderServer.dll
